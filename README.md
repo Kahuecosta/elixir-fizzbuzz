@@ -1,4 +1,4 @@
-# Projeto FizzBuzz
+# Projeto FizzBuzz em Elixir
 
 ### Instalação
 - Instalar o Elixir: https://elixir-lang.org/install.html
@@ -8,6 +8,9 @@
   - `mix compile`
 - Rodar os testes
   - `mix test`
+- Rodar a plicação
+  - `iex -S mix`
+  - `FizzBuzz.build(nome_do_arquivo.txt)` (ex: numbers.txt)
 - Formata o código
   - `mix format`
 
